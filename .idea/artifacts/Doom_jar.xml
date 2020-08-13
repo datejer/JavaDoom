@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Doom:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Doom_jar</output-path>
+    <root id="archive" name="Doom.jar">
+      <element id="module-output" name="Doom" />
+    </root>
+  </artifact>
+</component>
